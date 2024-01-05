@@ -1,0 +1,17 @@
+# Invisible Maze game
+
+Navigate to the end of a maze without seeing the walls in the less time possible. Find bonus to see the maze a little bit of time. Explore 3 levels of difficulty with radom generated maze using different generation algorithmes.
+
+## Play the game
+
+Just execute the main.py python file inside the game folder.  
+Warning : Sometime the game don't start when you press a difficulty button. Just close and restart the game. I't maybe solve the problem. If not, start again.
+
+## Contributing
+
+If you encounter any issues, have suggestions, or need support, please don't hesitate to reach out by creating an issue in the github repository.
+
+## Credits
+
+This game and all its images were created by g_Bloxy.  
+Font used : [Press Start](http://www.zone38.net/font/#pressstart) from codeman38. Liscense in the licenses folder.
