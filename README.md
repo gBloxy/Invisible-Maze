@@ -13,7 +13,16 @@ Navigate to the end of a maze without seeing the walls in the less time possible
 ## Play the game
 
 Just execute the main.py python file inside the game folder.  
-Warning : Sometime the game don't start when you press a difficulty button. Just close and restart the game. I't maybe solve the problem. If not, start again.
+Warning : Sometime the game don't start when you press a difficulty button. Just close and restart the game. I't maybe solve the problem. If not, start again.  
+Controls : arrow keys to move.
+
+## Requirements
+
+* Make sure you have [python](https://www.python.org) installed.  
+* Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [pygame](https://pygame.org).  
+```bash
+pip install pygame
+```
 
 ## Contributing
 
